@@ -1,0 +1,154 @@
+[
+  {
+    "stocks": [
+      {
+        "symbol": "GOOGL",
+        "quantity": 79,
+        "currentPrice": "206.09",
+        "totalValue": "16281.11"
+      }
+    ],
+    "totalPortfolioValue": "16281.11",
+    "timestamp": "2025-08-25T12:53:59.862Z",
+    "id": 1756126439863
+  },
+  {
+    "stocks": [
+      {
+        "symbol": "NVDA",
+        "quantity": 5,
+        "currentPrice": "177.99",
+        "totalValue": "889.95"
+      }
+    ],
+    "totalPortfolioValue": "889.95",
+    "timestamp": "2025-08-25T12:53:32.456Z",
+    "id": 1756126412459
+  },
+  {
+    "stocks": [
+      {
+        "symbol": "MICROSOFT",
+        "error": "Unable to fetch price: Unable to fetch price for MICROSOFT"
+      }
+    ],
+    "totalPortfolioValue": "0.00",
+    "timestamp": "2025-08-25T12:53:07.402Z",
+    "id": 1756126387403
+  },
+  {
+    "stocks": [
+      {
+        "symbol": "IBM",
+        "quantity": 9,
+        "currentPrice": "242.09",
+        "totalValue": "2178.81"
+      }
+    ],
+    "totalPortfolioValue": "2178.81",
+    "timestamp": "2025-08-25T12:47:12.734Z",
+    "id": 1756126032735
+  },
+  {
+    "stocks": [
+      {
+        "symbol": "IBM",
+        "quantity": 3,
+        "currentPrice": "242.09",
+        "totalValue": "726.27"
+      }
+    ],
+    "totalPortfolioValue": "726.27",
+    "timestamp": "2025-08-25T12:47:05.870Z",
+    "id": 1756126025871
+  },
+  {
+    "stocks": [
+      {
+        "symbol": "LYFT",
+        "quantity": 3,
+        "currentPrice": "17.01",
+        "totalValue": "51.03"
+      }
+    ],
+    "totalPortfolioValue": "51.03",
+    "timestamp": "2025-08-25T12:46:55.736Z",
+    "id": 1756126015737
+  },
+  {
+    "stocks": [
+      {
+        "symbol": "LYFT",
+        "quantity": 3,
+        "currentPrice": "17.01",
+        "totalValue": "51.03"
+      }
+    ],
+    "totalPortfolioValue": "51.03",
+    "timestamp": "2025-08-25T12:46:45.981Z",
+    "id": 1756126005983
+  },
+  {
+    "stocks": [
+      {
+        "symbol": "LYFT",
+        "quantity": 3,
+        "currentPrice": "17.01",
+        "totalValue": "51.03"
+      }
+    ],
+    "totalPortfolioValue": "51.03",
+    "timestamp": "2025-08-25T12:41:35.880Z",
+    "id": 1756125695883
+  },
+  {
+    "stocks": [
+      {
+        "symbol": "GOOG",
+        "quantity": 5,
+        "currentPrice": "206.72",
+        "totalValue": "1033.60"
+      }
+    ],
+    "totalPortfolioValue": "1033.60",
+    "timestamp": "2025-08-25T12:15:54.946Z",
+    "id": 1756124154948
+  },
+  {
+    "stocks": [
+      {
+        "symbol": "AAPL",
+        "quantity": 2,
+        "currentPrice": "227.76",
+        "totalValue": "455.52"
+      }
+    ],
+    "totalPortfolioValue": "455.52",
+    "timestamp": "2025-08-25T12:15:45.919Z",
+    "id": 1756124145922
+  },
+  {
+    "stocks": [
+      {
+        "symbol": "AAPL",
+        "quantity": 1,
+        "currentPrice": "227.76",
+        "totalValue": "227.76"
+      }
+    ],
+    "totalPortfolioValue": "227.76",
+    "timestamp": "2025-08-25T12:14:12.053Z",
+    "id": 1756124052055
+  },
+  {
+    "stocks": [
+      {
+        "symbol": "AALP",
+        "error": "Unable to fetch price: Unable to fetch price for AALP"
+      }
+    ],
+    "totalPortfolioValue": "0.00",
+    "timestamp": "2025-08-25T12:14:00.633Z",
+    "id": 1756124040634
+  }
+]
